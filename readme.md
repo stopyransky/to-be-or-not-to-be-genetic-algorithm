@@ -1,5 +1,5 @@
 Simple genetic algorithm simulation as described in book "Nature of Code" by Daniel Shiffman.
-Adapted to JavaScript and runnable in Node.
+Originally written in processing, here adapted to JavaScript and runnable in Node.
 
 To run, navigate to repository directory, enter "node" in terminal and type:
 
