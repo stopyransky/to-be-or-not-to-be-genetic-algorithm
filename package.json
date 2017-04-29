@@ -1,0 +1,11 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "genetic algorithm used for training simulations",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Karol Stopyra",
+  "license": "MIT"
+}
