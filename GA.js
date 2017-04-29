@@ -90,7 +90,7 @@ var GA = (function(){
 				console.log("dna --- fitness%\nmask")
 				for( var i = 0; i < this.population.length; i++ ) {
 					if(this.population[i].fitness > 0) {
-						//  console.log(this.population[i].toString());
+						 console.log(this.population[i].toString());
 						 console.log(this.population[i].toMask());
 					}
 				}
